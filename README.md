@@ -1,1 +1,1 @@
-![lint](https://github.com/DieOld/go/workflows/lint/badge.svg)
+![code checks](https://github.com/DieOld/go/workflows/code%20checks/badge.svg?branch=master)
