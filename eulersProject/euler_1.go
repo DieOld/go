@@ -1,5 +1,5 @@
 /*
-	Find sum of numbers that lcm of 3 and 6
+	Find sum of numbers that lcm of 3 and 5
 */
 
 package main
